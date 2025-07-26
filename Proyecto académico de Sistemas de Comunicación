@@ -1,0 +1,24 @@
+# Sistema de Modulación en Amplitud (AM)
+
+Este proyecto simula un sistema básico de modulación en amplitud utilizando Python. Es parte de una actividad académica para comprender los efectos del ruido, distorsión y atenuación sobre señales moduladas.
+
+## 📌 Funcionalidades
+
+- Generación de señal de mensaje (100 Hz)
+- Modulación AM usando portadora de 1000 Hz
+- Visualización en el dominio del tiempo y la frecuencia
+- Introducción de ruido blanco gaussiano
+- Simulación de atenuación y distorsión
+- Gráficas y análisis explicativo
+
+## 🧰 Tecnologías
+
+- Python 3.x
+- NumPy
+- Matplotlib
+- SciPy
+
+## 🚀 Ejecución
+
+```bash
+python am_modulacion.py
